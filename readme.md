@@ -25,3 +25,4 @@ git clone https://github.com/your-username/hidden-search-widget.git
 
 
 ```
+https://vipyan.github.io/Hidden-Search-Widget/
